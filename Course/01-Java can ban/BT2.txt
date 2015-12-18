@@ -1,0 +1,3 @@
+﻿Viết chương trình xuất ra màn hình console thông tin cá nhân bản thân mình
+
+(làm thêm) Viết trang web hiển thị ra thông tin cá nhân có avatar giống như facebook(+2) .jsp

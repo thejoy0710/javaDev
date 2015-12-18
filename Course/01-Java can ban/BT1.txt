@@ -1,0 +1,5 @@
+﻿Viết chương trình tìm ước số chung lớn nhất, bội số chung nhỏ nhất của hai số tự nhiên a và b đc nhập vào
+
+Scanner sc;
+
+System.out.println("");
