@@ -6,7 +6,7 @@
 
 3. Vào group skype đúng giờ học khi tới ngày training bài mới, muộn giờ phạt (-1d)
 
-4. Làm đủ bài tập đc giao, chậm trễ phạt (-2d)
+4. Làm đủ bài tập đc giao, chậm trễ phạt (-2d) (ko tính mem nữ)
 
 5. Số money phạt sẽ đc dồn vào cuối khi kết thúc, chúng ta sẽ party nếu đc kha khá :D
 
